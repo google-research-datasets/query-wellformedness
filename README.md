@@ -47,7 +47,7 @@ If you use or discuss this dataset in your work, please cite our paper:
 
 ## License
 
-QueryWellformedness is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Any third party content or data is provided “As Is” without any warranty, express or implied.
+Query-wellformedness dataset is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Any third party content or data is provided “As Is” without any warranty, express or implied.
 
 ## Contact
 
