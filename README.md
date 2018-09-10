@@ -9,7 +9,7 @@ Google's query wellformedness dataset was created by crowdsourcing well-formedne
 For each query we provide the average of the 5 binary judgements as the wellformedness score for the query. Following are some examples of queries present in the dataset:
 
 Query | Wellformedness rating
-:----:|-----------------------
+------|-----------------------
 Which form of government is still in place in greece ? | 1.0
 Population of owls just in north america ? | 0.0
 Is johnny depp a celtic fan ? | 0.8
@@ -18,7 +18,7 @@ Where did Roald Dahl live in his teenaged years ? | 0.6
 The dataset is divided into three files: train.tsv, dev.tsv and test.tsv each containing rated queries. The size of the files is as follows:
 
 File        | No. of queries
-:----------:| ---------------
+------------| ---------------
 train.tsv   | 17,500
 dev.tsv     |  3,750
 test.tsv    |  3,850
